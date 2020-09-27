@@ -1,4 +1,4 @@
-public class PartTimeAddition{
+public class EmpComputation{
 	public static void main(String[] args){
 		//constants
 		int part_time = 1;
